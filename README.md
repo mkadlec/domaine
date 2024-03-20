@@ -3,8 +3,8 @@
 
 ## Usage:
 
-`Domain.valid_dkim(<domain>, <selector>)`
+`Domaine.valid_dkim(<domain>, <selector>)`
 
 ### Example:
 
-`Domain.valid_dkim('example-domain.com', 'sel1')`
+`Domaine.valid_dkim('example-domain.com', 'sel1')`
