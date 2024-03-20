@@ -7,6 +7,5 @@ Gem::Specification.new do |s|
   s.authors     = ["Mark Kadlec"]
   s.email       = "mkadlec99@gmail.com"
   s.files       = ["lib/domaine.rb"]
-  s.homepage    = "https://rubygems.org/gems/hola"
   s.license       = "MIT"
 end
