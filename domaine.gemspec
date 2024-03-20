@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "domaine"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.summary     = "A simple domain validation for DKIM and SPF records"
   s.description = "A simple domain validation for DKIM and SPF records"
   s.homepage    = "https://github.com/mkadlec/domaine"
