@@ -8,3 +8,7 @@
 ### Example:
 
 `Domaine.valid_dkim('example-domain.com', 'sel1')`
+
+## Returns:
+
+true or false
