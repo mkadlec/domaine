@@ -1,4 +1,4 @@
-module Domain
+module Domaine
 
   VALID_DKIM_KEY = 'ANSWER: 1'.freeze
 
