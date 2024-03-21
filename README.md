@@ -4,12 +4,13 @@
 ## Usage:
 
 `Domaine.valid_dkim(<domain>, <selector>)`
+<br/>and<br/>
 `Domaine.valid_spf(<domain>)`
 
 ### Example:
 
 `Domaine.valid_dkim('example-domain.com', 'sel1')`
-and
+<br/>and<br/>
 `Domaine.valid_spf('example-domain.com')`
 
 ## Returns:
